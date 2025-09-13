@@ -1,0 +1,10 @@
+# Ultra-minimal requirements for IDSS MVP
+# Just the essential packages to get the system running
+
+fastapi
+uvicorn
+pandas
+numpy
+networkx
+aiohttp
+requests

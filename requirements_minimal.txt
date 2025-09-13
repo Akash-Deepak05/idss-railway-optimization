@@ -1,0 +1,24 @@
+# Minimal requirements for IDSS MVP
+# Essential packages only for quick setup
+
+# Web framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
+
+# Core data processing
+pandas==2.1.1
+numpy==1.24.3
+
+# Network analysis
+networkx==3.2
+
+# HTTP clients
+aiohttp==3.8.6
+requests==2.31.0
+
+# Operations Research
+ortools
+
+# Basic ML (optional for now)
+scikit-learn==1.3.0
